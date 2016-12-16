@@ -1,3 +1,4 @@
+
 # Declare second integer, double, and String variables.
 a = raw_input()
 b = raw_input()
